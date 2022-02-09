@@ -30,7 +30,7 @@ Currently each link is a UUID (forever valid), should be switched to JWT.
 
 ### deps
 * SQL toolkit: [`sqlalchemy`](https://www.sqlalchemy.org/)
-* DB: [PostgreSQL](https://www.postgresql.org/docs/12/index.html)
+* DB: [PostgreSQL](https://www.postgresql.org/docs/14/index.html)
 
 ### deps to consider:
 * scripting:
